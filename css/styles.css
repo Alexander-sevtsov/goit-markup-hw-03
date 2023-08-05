@@ -41,7 +41,6 @@ button {
   color: var(--iris);
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  font-style: normal;
   font-weight: 800;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
@@ -52,7 +51,6 @@ button {
   color: var(--navyblue);
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  font-style: normal;
   font-weight: 800;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
@@ -61,9 +59,7 @@ button {
 
 .menu-link {
   color: var(--navyblue);
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
@@ -71,10 +67,7 @@ button {
 
 .contacts {
   color: var(--slate);
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
@@ -95,10 +88,7 @@ button {
 .main-title {
   color: var(--white);
   text-align: center;
-  font-family: Roboto;
   font-size: 56px;
-  font-style: normal;
-  font-weight: 700;
   line-height: 1.07; /* 107.143% */
   letter-spacing: 1.12px;
 }
@@ -108,7 +98,6 @@ button {
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.64px;
@@ -124,9 +113,7 @@ button {
 /* Feature section */
 .feature-title {
   color: var(--navyblue);
-  font-family: Roboto;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
@@ -134,10 +121,7 @@ button {
 
 .feature-text {
   color: var(--slate);
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
@@ -147,10 +131,7 @@ button {
 .gallery-title {
   color: var(--navyblue);
   text-align: center;
-  font-family: Roboto;
   font-size: 36px;
-  font-style: normal;
-  font-weight: 700;
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.72px;
   text-transform: capitalize;
@@ -171,10 +152,7 @@ button {
 .team-maintitle {
   color: var(--navyblue);
   text-align: center;
-  font-family: Roboto;
   font-size: 36px;
-  font-style: normal;
-  font-weight: 700;
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.72px;
   text-transform: capitalize;
@@ -184,7 +162,6 @@ button {
   color: var(--navyblue);
   text-align: center;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
@@ -194,8 +171,6 @@ button {
   color: var(--slate);
   text-align: center;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
@@ -208,7 +183,6 @@ button {
   color: var(--iris);
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  font-style: normal;
   font-weight: 800;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
@@ -219,7 +193,6 @@ button {
   color: var(--cloud);
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  font-style: normal;
   font-weight: 800;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
@@ -229,8 +202,6 @@ button {
 .footer-text {
   color: var(--cloud);
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
@@ -260,7 +231,6 @@ button {
   font-family: 'Roboto', sans-serif;
   text-align: center;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.64px;
@@ -276,7 +246,6 @@ button {
 .portfolio-title {
   color: var(--navyblue);
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
@@ -285,8 +254,6 @@ button {
 .portfolio-text {
   color: var(--slate);
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
