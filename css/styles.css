@@ -24,7 +24,7 @@ body {
 
 .container {
   width: 1158px;
-  margin: 0;
+  margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -88,7 +88,7 @@ button {
   gap: 40px;
 }
 
-.header-menu-item {
+.menu-link-item {
   padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -187,7 +187,7 @@ button {
 }
 
 .feature-list-item {
-  width: calc((100% - 72) / 4);
+  width: calc((100% - 72px) / 4);
 }
 
 .feature-title {
@@ -247,7 +247,7 @@ button {
   gap: 24px;
 }
 
-.tem-person {
+.team-person {
   padding-top: 32px;
   padding-bottom: 32px;
 }
